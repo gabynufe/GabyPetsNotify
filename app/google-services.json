@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191959621622",
+    "firebase_url": "https://gabypetsnotify.firebaseio.com",
+    "project_id": "gabypetsnotify",
+    "storage_bucket": "gabypetsnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191959621622:android:c9de5df1cb29c6f4",
+        "android_client_info": {
+          "package_name": "com.gendigital.gabypetsnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191959621622-gmumjqrlu0s51pn91vamdur3dtffl0dk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gendigital.gabypetsnotify",
+            "certificate_hash": "559FCEE6550EB8ECCE634339B652CD4A994B8090"
+          }
+        },
+        {
+          "client_id": "191959621622-puq37qt36urpcqmqqbvsoejfqfeoms76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0RPdKVlljdsFZh-WLj4yhus1b112F-vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191959621622-puq37qt36urpcqmqqbvsoejfqfeoms76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
